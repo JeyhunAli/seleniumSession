@@ -1,0 +1,73 @@
+Api  Application program interface   interface is here is keyword interface is meeting point between two system 
+
+Api web services 
+microservices is basically is architecture 
+2 type of Api  is SOAP REST 
+REST ALSO restful webservices 
+now days rest is more popular 
+i worked on only in restApi 
+ 
+ 
+ Api between web pages is meeting point it does response and return 
+ how to send request by HTTP  OR HTTPS   these are calls protokol 
+ 
+ by hhtp url request 
+  we getting response in xml or json format  json is more popular and json is more faster 
+  Api is platfor independedt it can connect any platform 
+  
+  URI URL <<<<<<<<<>>>>>>>>>  DIFFERENCES 
+  API can be use in same company 
+  internally we can use Api to connect each other 
+  
+  1st operation is reading the data 
+  create 
+   update 
+   delete 
+   what kind Api testing i did 
+   
+   crud  testing i did 
+   
+   for that http method for create is post method 
+   for read Get method 
+   for Update put/Patch method 
+   for delete delete methods 
+   
+   differences between put and patch ?
+   if i use partial recor  i use patch record  PUT methods is for entire record 
+   
+   404 error is HTTP status  different level of them    200----205     400----405   500----505      <<http status code >>>
+   100,  200,  300,  400,   500   
+   every status code there are meaning of them  
+   postman is tool in order to test restApi 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
